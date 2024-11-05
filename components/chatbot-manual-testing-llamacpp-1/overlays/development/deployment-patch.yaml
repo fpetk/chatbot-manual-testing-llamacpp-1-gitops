@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tpetkos/chatbot-manual-testing-llamacpp-1:61cc6d555bbd76ed6e22ebdb185dfe9417e86ba8@sha256:1d3cb7d592a15b0e03b5dd718a36ff52180c60334f2698bbc065be8f84fba25c # use pre-built to bootstrap 
+        - image: quay.io/tpetkos/chatbot-manual-testing-llamacpp-1:26b94ecab22c07d6c3a9d8280d9d15337016bfbb@sha256:03e089d8ddb824f9e5a7529c8cb09fdaa7ec63a57100c32afc46bd43bf9c034a # use pre-built to bootstrap 
           name: app-inference
